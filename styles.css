@@ -1,0 +1,61 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 700px;
+  margin: 30px auto;
+  padding: 0 15px;
+  background: #fff8f0;
+  color: #333;
+  line-height: 1.6;
+}
+
+header, footer {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+header h1 {
+  font-weight: 700;
+  color: #4a3c31;
+}
+
+nav a {
+  color: #6a4e42;
+  text-decoration: none;
+  margin: 0 12px;
+  font-weight: 600;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.poem p {
+  margin-bottom: 1.2em;
+  white-space: pre-line;
+}
+
+.poems-list article {
+  margin-bottom: 25px;
+  border-bottom: 1px solid #e0d8cf;
+  padding-bottom: 15px;
+}
+
+.poems-list h2 {
+  margin-bottom: 8px;
+  font-size: 1.3em;
+  color: #6a4e42;
+}
+
+.poems-list a {
+  color: #8b5e3c;
+  text-decoration: none;
+}
+
+.poems-list a:hover {
+  text-decoration: underline;
+}
+
+footer p {
+  font-size: 0.9em;
+  color: #8c7a6b;
+}
